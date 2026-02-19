@@ -27,7 +27,7 @@ const games = [
     id: 2,
     name: "Ice Knockout",
     description:
-      "A multiplayer physics game where you launch balls on ice to knock others off and be the last standing. 🧊. 🍣🥢",
+      "A multiplayer physics game where you launch balls on ice to knock others off and be the last standing. 🧊.",
     image: images["ice-knockout.png"],
     link: "https://ice-knockout.onrender.com/",
   },
