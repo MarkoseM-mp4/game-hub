@@ -31,6 +31,14 @@ const games = [
     image: images["ice-knockout.png"],
     link: "https://ice-knockout.onrender.com/",
   },
+  {
+    id: 3,
+    name: "Tank Warriors",
+    description:
+      "A fast-paced 2-player online tank battle of aim, movement, and nonstop fire.",
+    image: images["tank-warriors.jpg"],
+    link: "https://tank-warriors.onrender.com/",
+  },
 ];
 
 export default games;
